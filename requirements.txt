@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+PyYAML
+joblib
+ensure==1.0.2
+box==0.1.4
+
+
+-e .
